@@ -1,0 +1,84 @@
+/* Time to trick CSS into thinking that HK Grotesk is Inter!*/
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Inter-Regular.woff2") format("woff2"),
+  url("../fonts/Inter-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/Inter-Italic.woff2") format("woff2"),
+  url("../fonts/Inter-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 600;
+  src: url("../fonts/Inter-Bold.woff2") format("woff2"),
+  url("../fonts/Inter-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 600;
+  src: url("../fonts/Inter-BoldItalic.woff2") format("woff2"),
+  url("../fonts/Inter-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Inter-Black.woff2") format("woff2"),
+  url("../fonts/Inter-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Inter-BlackItalic.woff2") format("woff2"),
+  url("../fonts/Inter-BlackItalic.woff") format("woff");
+}
+
+@font-face {
+   font-family: 'JuliaMono';
+   font-style: 'normal';
+   font-display: auto;
+   font-weight: 400;
+   src: url("../fonts/JuliaMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'JuliaMono';
+   font-style: 'italic';
+   font-display: auto;
+   font-weight: 400;
+   src: url("../fonts/JuliaMono-Italic.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'JuliaMono';
+   font-style: 'normal';
+   font-display: auto;
+   font-weight: 600;
+   src: url("../fonts/JuliaMono-Bold.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'JuliaMono';
+   font-style: 'normal';
+   font-display: auto;
+   font-weight: 600;
+   src: url("../fonts/JuliaMono-BoldItalic.woff2") format("woff2");
+}
