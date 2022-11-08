@@ -21,7 +21,7 @@ body {
   line-height: 1.54;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  font-feature-settings: "liga", "tnum", "case", "calt", "locl", "cv08", "dlig", "case", "cv01", "zero";
+  font-feature-settings: "cv08", "cv01", "cv07", "cv10", "case", "zero";
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: 100%;
 
@@ -72,14 +72,12 @@ h1 {
   font-size: 1.5rem;
   margin-top: 1.0em;
   margin-bottom: -0.5em;
-  font-weight: 800;
 }
 
 h2 {
   font-size: 1.0rem;
   margin-top: 1.0em;
   margin-bottom: -0.5em;
-  font-weight: 700;
 }
 
 h3 {
